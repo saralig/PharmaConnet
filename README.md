@@ -1,5 +1,6 @@
 # PharmaConnet
-Juan Jose  Uribe Arias
+Juan Jose  Uribe  Arias
+
 Sara Lizeth Galvis Loaiza
 
 PharmaConnet
