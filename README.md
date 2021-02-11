@@ -1,4 +1,7 @@
 # PharmaConnet
+Juan Jose  Uribe Arias
+Sara Lizeth Galvis Loaiza
+
 PharmaConnet
 
 Los medicamentos son un elemento fundamental para la vida de todo ser humano en cualquier sociedad, poder acceder a estos de manera oportuna representa algo básico, pero de suma importancia para la calidad de vida. Sin embargo, la búsqueda de medicamentos es un proceso que sufre el problema de volverse tedioso y hasta difícil. Este proyecto pretende facilitar la búsqueda de medicamentos a domicilio, con la ayuda de una aplicación que le brinde al usuario un lugar donde encuentre una gran oferta de medicamentos, con disponibilidad envío a domicilio
