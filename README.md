@@ -17,8 +17,10 @@ La implementación del servicio de domicilio de medicamentos podría parecer una
 Estado del arte
 
 Existen plataformas similares en las cuales los usuarios pueden pedir productos y a continuacion se genera un pedido para llevar un domicilio a la casa del cliente, en el ambito de los medicamentos encontramos las siguientes aplicaciones:
+
 -Rappi: Es una compañía multinacional colombiana que actúa como portal de contacto, una de las características que define Rappi es la ancha gama de productos y servicios disponibles para la entrega, en palabras de su cofundador, busca ser una “tienda de todo”.
 La aplicación móvil permite a los consumidores pedir domicilio de su supermercado, comida y medicamentos de farmacias entre otras funciones.
+
 -App Medicamentos Colsubsidio: La aplicación de medicamentos Colsubsidio opera como una interfaz grafica para encontrar información relacionada a la entrega de medicamentos aprobados por parte de la EPS de los usuarios, se pueden pedir el envío de los medicamentos a domicilio desde esta app.
 
 El valor agregado de nuestra propuesta y lo que lo diferencia de otras apps similares es la transparencia que ofrecemos al usuario con respecto al proceso de obtencion del medicamento, ademas, damos la opcion a cada farmacia de ofertar sus productos a sus propios precios.
