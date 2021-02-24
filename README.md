@@ -47,3 +47,13 @@ Objetivos especificos
 - Desarrollo de los principales componentes y vistas front-end(login,home,carrito de compras)
 - Diseño del modelo de la base de datos.
 - Desarrollo de la API y posteriormente conectar front-end y back-end.
+
+Modelo de negocio
+https://ibb.co/1sFgr5n
+
+Muckups de la aplicacion
+
+https://ibb.co/svyhTgW
+https://ibb.co/82wFwPv
+https://ibb.co/HNFNZDj
+
