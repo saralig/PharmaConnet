@@ -55,6 +55,8 @@ https://ibb.co/1sFgr5n
 Muckups de la aplicacion
 
 https://ibb.co/svyhTgW
+
 https://ibb.co/82wFwPv
+
 https://ibb.co/HNFNZDj
 
