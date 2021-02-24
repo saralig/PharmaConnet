@@ -52,7 +52,7 @@ Modelo de negocio
 
 https://ibb.co/1sFgr5n
 
-Muckups de la aplicacion
+Mockups de la aplicación
 
 https://ibb.co/svyhTgW
 https://ibb.co/82wFwPv
