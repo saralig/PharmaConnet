@@ -49,6 +49,7 @@ Objetivos especificos
 - Desarrollo de la API y posteriormente conectar front-end y back-end.
 
 Modelo de negocio
+
 https://ibb.co/1sFgr5n
 
 Muckups de la aplicacion
